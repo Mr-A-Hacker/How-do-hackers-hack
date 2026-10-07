@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A beginner cybersecurity education project. **For users:** learn the general stages of attacks and, more importantly, where defenders can detect and stop them.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 # How-do-hackers-hack
 Learn to hack
 [How Do Hackers Hack By Mr.pdf](https://github.com/user-attachments/files/23347190/How.Do.Hackers.Hack.By.Abdullah.pdf)
